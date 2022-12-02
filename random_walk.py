@@ -8,7 +8,7 @@ This program takes 3 parameters form the command line (list of walk lengths,
 number of trials for each walk length, and character to be simulated). It then
 will print out certain stats from each character and simulation that it ran.
 Finally, the program plots out the end points of a random walk of 100 steps,
-ran 50 times, for each character.
+ran 50 times, for each character!
 '''
 
 import subprocess
